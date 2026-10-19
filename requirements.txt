@@ -1,0 +1,16 @@
+autoreject==0.4.3
+braindecode==1.5.2
+joblib==1.5.3
+jupyter
+matplotlib==3.10.9
+mne==1.12.1
+mne-icalabel==0.9.0
+numpy==2.4.6
+pandas==3.0.3
+pyriemann==0.11
+python-picard==0.8.2
+scikit-learn==1.9.0
+scipy==1.17.1
+skorch==1.4.0
+statsmodels==0.14.6
+torch==2.12.0

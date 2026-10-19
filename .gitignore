@@ -1,0 +1,53 @@
+# Data files
+mne_data/
+preprocessing/preprocessing_manifest_*.csv
+data/raw/
+data/preprocessed/
+data/epochs/
+*.fif
+*.edf
+
+# Features and models
+*.npy
+*.pkl
+*.joblib
+
+# Result tables (kept locally; regenerate with the modeling/analysis scripts)
+modeling/*/results/
+analysis/**/*.csv
+analysis/figures/
+
+# Rendered reports
+*.pdf
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+venv/
+env/
+.env
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary
+*.tmp
+temp/
